@@ -1,0 +1,5 @@
+name: EnderButt
+version: '1.2-SNAPSHOT'
+main: me.reigniteh.enderbutt.EnderButt
+api-version: 1.18
+authors: [ Reigniteh ]
